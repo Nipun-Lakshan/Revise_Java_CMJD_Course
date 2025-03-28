@@ -17,12 +17,12 @@ class Revise01 {
     }
 
     /* Type 03: No arguments, Return Value */
-    public static int getTen() { 
-        return 10; 
+    public static int getTen() {
+        return 10;
     }
 
     /* Type 04: With arguments, Return a value */
-    public static int add(int a, int b) { 
-        return a + b; 
+    public static int add(int a, int b) {
+        return a + b;
     }
 }
